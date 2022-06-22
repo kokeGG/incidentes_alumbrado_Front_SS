@@ -1,0 +1,7 @@
+.container img {
+    position: fixed !important;
+    width: 100%;
+    height: 82px;
+    left: 0;
+      top: 0;
+}
